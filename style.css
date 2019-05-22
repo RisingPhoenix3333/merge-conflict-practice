@@ -1,3 +1,17 @@
+
+
+
+
+  h3 {text-align: center;}
+
+ .blue { color: blue;
+}
+
+.green { color: green;
+}
+
+.red { color:red;
+
 main{
  display: flex;
 flex-direction: row;
@@ -12,4 +26,5 @@ justify-content: center;
 }
 .div_3{
     color: green;
+
 }
